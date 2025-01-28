@@ -1,0 +1,27 @@
+.container{
+    padding: 20px;
+}
+span{
+    color: #118B50;
+}
+.subcontainer-2{
+    background-color: #5E686D;
+    padding: 20px 30px;
+}
+.white{
+    position: relative;
+    background-color:white;
+    border-bottom: 5px solid gray ;
+    border-bottom-style: solid;
+
+    
+}
+.wealth{
+    position: sticky;
+    left:0;
+    background-color: #FCC737;
+    font-weight: bold;
+    width: 250px;
+    border-bottom: 10px solid red ;
+    
+   }
